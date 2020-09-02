@@ -30,7 +30,7 @@ After installing all the necessary software, run `npm i canvas` if you use npm, 
 
 ## Getting started
 
-Here is the base code you'll be using to get started:
+Here is the base code you'll be using to get starwdksjdsded:
 
 <branch version="11.x">
 
